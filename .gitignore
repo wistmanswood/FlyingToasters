@@ -5,6 +5,7 @@
 ## Xcode
 *.xcscmblueprint
 *xcworkspace/xcuserdata/*
+DerivedData
 
 ## User settings
 xcuserdata
